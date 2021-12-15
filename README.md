@@ -3,7 +3,7 @@ Python Project on Image Aesthetics using Handcrafted methods. Based on the photo
 
 ## Files
 
- - The image path can be changed according to your image location.
+ The image path can be changed according to your image location.
 
  ### Color contrast w grabcut.py : 
  Evaluating aesthetic quality based on Color Contrast
