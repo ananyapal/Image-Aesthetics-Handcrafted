@@ -5,20 +5,20 @@ Python Project on Image Aesthetics using Handcrafted methods. Based on the photo
 
  - The image path can be changed according to your image location.
 
- - Color contrast w grabcut.py : 
+ - Color contrast w grabcut.py:<br>
  Evaluating aesthetic quality based on Color Contrast
 
- - SVMcode.py	: 
+ - SVMcode.py:<br>
  SVM for evaluating aesthetic quality of images
 
- - dof.py	: 
+ - dof.py:<br> 
  Evaluating aesthetic quality based on Depth of Field
 
- - foreground background.py	: 
+ - foreground background.py:<br> 
  Separating Foreground and Background
 
- - grabcut.py	: 
+ - grabcut.py:<br>
  Grabcut algorithm
 
- - rot.py : 
+ - rot.py:<br> 
  Evaluating aesthetic quality based on Rule of Thirds
